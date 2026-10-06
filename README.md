@@ -21,8 +21,8 @@ Import this folder as a Next.js project. Use `npm install` and `npm run build`, 
 
 Project data and copy: `app/page.tsx`. Styling: `app/globals.css`. Media: `public/media/`.
 
-Set `whatsappNumber` in `app/page.tsx` to the verified studio number including country code, using digits only. Until set, the form opens WhatsApp with the brief and asks the visitor to select a conversation. The form does not save submissions or send messages automatically.
+The form opens Pakeezah Atelier’s WhatsApp at +91 72500 71666 with the brief pre-filled. This number was confirmed in the supplied WhatsApp conversation. To change it, edit `whatsappNumber` in `app/page.tsx`, using digits only including country code. The form does not save submissions or send messages automatically.
 
-Project dates, areas and locations are omitted where unverified. Jamshedpur is identified as the studio base. Renders are marked as design visualisations. This is an unofficial concept using supplied studio media; the completed-room preview was edited to remove its central text watermark. Search indexing is disabled for the concept.
+Project dates, areas and locations are omitted where unverified. Jamshedpur is identified as the studio base. Renders are marked as design visualisations. This is an unofficial concept using supplied studio media; the completed-room and bedroom previews were edited to remove its central text watermark. Search indexing is disabled for the concept.
 
 Motion respects reduced-motion preferences. Browser visual verification remains recommended before pitching.
